@@ -1,5 +1,5 @@
 ---
-name:Akhilesh
-position:Student
+name: Akhilesh
+position: Student
 ---
 My new file
