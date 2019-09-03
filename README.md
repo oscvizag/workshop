@@ -1,5 +1,7 @@
 # workshop
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/08ddc06f3a504443ab80ecbbeff7a2a3)](https://app.codacy.com/app/oscvizag/workshop?utm_source=github.com&utm_medium=referral&utm_content=oscvizag/workshop&utm_campaign=Badge_Grade_Dashboard)
+
 # Introduction
 
 Starter video in [Youtube](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
