@@ -42,3 +42,6 @@ Wait for the review.
 
 ### Link to the presentation: [Link](https://docs.google.com/presentation/d/1pdWtDSNmNYA66Lh8f7aFdxYGMQOsGpEl9kYMW3PI1RI/edit?usp=drivesdk)
 
+### Poster
+
+![Poster](https://raw.githubusercontent.com/oscvizag/workshop/master/poster.jpg)
